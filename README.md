@@ -19,7 +19,6 @@
   <img align="center" alt="Vitor-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Vitor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Vitor-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
-  <img align="right" alt="Vitor-pic" height="150" style="border-radius:50px;" src="#">
 </div>
   
   ##
