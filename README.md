@@ -2,8 +2,7 @@
 
 - 🔭 Estudante de Ciências da Computação com ênfase em Full Stack Dev
 - 🌱 Estudando Java e JavaScript
-- 📫 Emal para contato: vitorhugo.bach@gmail.com
-- 😄 Pronouns: ele/dele
+- 📫 Email para contato: vitorhugo.bach@gmail.com
 
 <div align="center">
   <a href="https://github.com/vhmbach">
