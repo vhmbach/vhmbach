@@ -1,7 +1,7 @@
 ## Olá! eu sou o Vitor Bach
 
 - 🔭 Estudante de Ciências da Computação com ênfase em Full Stack Dev
-- 🌱 Estudando Java | Python | Bancos de Dados
+- 🌱 Java | Python | SQL | HTML | CSS | PHP
 - 📫 Email para contato: vitorhugo.bach@gmail.com
 
 <div align="center">
