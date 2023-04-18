@@ -3,6 +3,7 @@
 - 🔭 Estudante de Ciências da Computação com ênfase em Full Stack Dev
 - 🌱 Java | Python | SQL | HTML | CSS | PHP
 - 📫 Email para contato: vitorhugo.bach@gmail.com
+- Instagram: instagram.com/hmbach_
 <!---
 <div align="center">
   <a href="https://github.com/vhmbach">
